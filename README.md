@@ -84,7 +84,8 @@ gcc cc_sparse_matrix.c -o cc_sparse -lm
 - **A Anushruth Reddy**
 
 **Guide**: Dr. Chandan Misra
-Year: 2025
+
+**Year**: 2025
 
 ## 🔭 Future Scope
 - Extend CC for general sparse matrices (non-diagonal structures)
