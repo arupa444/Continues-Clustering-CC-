@@ -1,0 +1,25 @@
+%%MatrixMarket matrix coordinate real general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/Grund/b1_ss
+% name: Grund/b1_ss
+% [Unsymmetric Matrix b1_ss, F. Grund, Dec 1994.]
+% id: 449
+% date: 1997
+% author: F. Grund
+% ed: F. Grund
+% fields: title A b name id date author ed kind
+% kind: chemical process simulation problem
+%-------------------------------------------------------------------------------
+5 5 11
+1 1 1
+1 2 2
+1 4 11
+2 2 3
+2 3 4
+3 2 5
+3 3 6
+3 4 7
+4 4 8
+5 4 9
+5 5 10

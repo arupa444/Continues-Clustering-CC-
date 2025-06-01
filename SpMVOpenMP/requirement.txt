@@ -1,0 +1,11 @@
+To compile :
+clang -Xpreprocessor -fopenmp -I/opt/homebrew/include -o spmv_openmp spmv_openmp.c -lm -v /opt/homebrew/Cellar/libomp/19.1.5/lib/libomp.dylib
+
+to run a file:
+
+./spmv_openmp
+
+clang -Xpreprocessor -fopenmp -I/opt/homebrew/include -o parallel1 parallel1.c -lm -v /opt/homebrew/Cellar/libomp/19.1.5/lib/libomp.dylib
+
+
+clang -Xpreprocessor -fopenmp -I/opt/homebrew/include -o example_read example_read.c -lm -v /opt/homebrew/Cellar/libomp/19.1.5/lib/libomp.dylib
