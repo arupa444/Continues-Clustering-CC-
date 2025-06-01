@@ -68,7 +68,11 @@ gcc cc_sparse_matrix.c -o cc_sparse -lm
 
 ## 📘 Thesis Details
 **Title**: New Storage Format for Sparse Matrices
+
+
 **Institution**: XIM University, Bhubaneswar
+
+
 **Authors**:
 
 - **Arupa Nanda Swain**
@@ -79,7 +83,7 @@ gcc cc_sparse_matrix.c -o cc_sparse -lm
 
 - **A Anushruth Reddy**
 
-Guide: Dr. Chandan Misra
+**Guide**: Dr. Chandan Misra
 Year: 2025
 
 ## 🔭 Future Scope
